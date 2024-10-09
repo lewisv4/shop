@@ -12,7 +12,7 @@ Shop is a sample e-commerce [Progressive Web App](https://developers.google.com/
 
 ## Setup
 ```bash
-$ git clone https://github.com/Polymer/shop.git
+$ git clone https://github.com/lewisv4/shop.git
 $ cd shop
 $ npm i
 $ npm start
